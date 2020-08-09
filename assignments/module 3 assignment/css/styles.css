@@ -1,0 +1,80 @@
+/*body{
+	background-color: gray;
+	
+}*/
+
+/*header*/
+/*#logo-img {
+  background: url('../images/restaurant-logo_large.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}*/
+
+#header-nav{
+	background-color: #aaffff;
+	border-radius: 0;
+	border: 0;
+
+}
+
+.navbar-brand h1{
+	margin-top: 5px;
+	margin-bottom: 0;
+	color: black;
+	text-shadow: 2px 2px 5px gray;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+#nav-list a {
+	color: gray;
+	text-align: center;
+
+}
+
+#nav-list a:hover {
+	color: white;
+	background-color: #aaeeea;
+	text-shadow: 2px 2px 10px black; 
+	
+}
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -30px;
+}
+
+	p{
+		clear: right;
+		margin: 10px;
+	}
+
+	
+	section {
+  		
+  		background-color: /*#A9A9A9*/#C0C0C0;
+  		width: 100%;  		
+  		font-family: Helvetica;
+  		color: black;
+  		padding: 0px;  		  		
+  		margin: 0px;
+  	}
+  	div{
+  		
+  		padding: 10px;  		 
+  		margin-right: auto;
+ 	 	margin-left: auto;
+  	}	
+
+.main-text a{
+	text-decoration: none;
+}	
+  		
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #55aa99
+}
+.navbar-header button.navbar-toggle:hover, .navbar-header .icon-bar:hover{
+	background-color: #599999;
+}
+
